@@ -16,5 +16,5 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone
+   git clone git@github.com:arafatul-islam/House-Rent-Management-frontend.git
    ```
